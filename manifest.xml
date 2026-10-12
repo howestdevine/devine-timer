@@ -9,14 +9,14 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Devine timer" />
   <Description DefaultValue="A simple countdown timer you place on a slide. Set the time while editing, click it to start while presenting." />
-  <IconUrl DefaultValue="https://devinekask.github.io/devine-timer/assets/icon-32.png" />
-  <HighResolutionIconUrl DefaultValue="https://devinekask.github.io/devine-timer/assets/icon-64.png" />
-  <SupportUrl DefaultValue="https://devinekask.github.io/devine-timer/" />
+  <IconUrl DefaultValue="https://howestdevine.github.io/devine-timer/assets/icon-32.png" />
+  <HighResolutionIconUrl DefaultValue="https://howestdevine.github.io/devine-timer/assets/icon-64.png" />
+  <SupportUrl DefaultValue="https://howestdevine.github.io/devine-timer/" />
   <Hosts>
     <Host Name="Presentation" />
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://devinekask.github.io/devine-timer/index.html" />
+    <SourceLocation DefaultValue="https://howestdevine.github.io/devine-timer/index.html" />
     <RequestedWidth>300</RequestedWidth>
     <RequestedHeight>150</RequestedHeight>
   </DefaultSettings>

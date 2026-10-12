@@ -35,7 +35,7 @@ To test in a plain browser, open `https://localhost:3000/?view=read&s=10`. `view
 
 ## Publishing (GitHub Pages)
 
-The add-in is published from [devinekask/devine-timer](https://github.com/devinekask/devine-timer) at **https://devinekask.github.io/devine-timer/** (GitHub Pages: branch `main`, folder `/docs`). `manifest.xml` points there.
+The add-in is published from [howestdevine/devine-timer](https://github.com/howestdevine/devine-timer) at **https://howestdevine.github.io/devine-timer/** (GitHub Pages: branch `main`, folder `/docs`). `manifest.xml` points there.
 
 1. Push to `main`; Pages redeploys within a minute or two.
 2. To install the published version, run `npm run sideload:prod` (or drag `manifest.xml` into the `wef` folder, see above) and restart PowerPoint. **Devine timer** works without a local server.
